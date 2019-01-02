@@ -9,10 +9,9 @@ Blockchain Hub Prague is a business incubator for new startups. We all share a s
 
 ## Members
 
-Crowdholding s.r.o.
+[Crowdholding.com](https://www.crowdholding.com "Crowdholding.com")  
+Decentralized open innovation platform and integrated marketplace.
 
-> Decentralized open innovation platform and integrated marketplace.
+[Intelligent Trading Foundation](https://intelligenttrading.org "IntelligentTrading.org")
 
-![Crowdholding Logo](/media/main/CH-logo.png "Crowdholding Logo")
-
-[Crowdholding.com](https://www.crowdholding.com "Crowdholding.com")
+AI, TA based trading strategies and risk managemet services for digital currency trading markets.
