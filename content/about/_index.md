@@ -1,6 +1,6 @@
 +++
 date = "2018-01-02T23:00:00+00:00"
-title = "About Hugo"
+title = "About"
 
 +++
 ## Where It Happens...
