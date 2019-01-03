@@ -2,7 +2,7 @@
 author = "Tom Counsell"
 categories = ["invstability"]
 date = "2019-01-03T00:00:00+01:00"
-description = "notes on startup founders"
+description = "Startup Investability Series"
 featured = ""
 featuredalt = ""
 featuredpath = ""
@@ -12,8 +12,6 @@ type = "post"
 
 +++
 # Concerning Founders
-
-##### _Startup Investability Series_
 
 For young startups, the founding team is the biggest identifier of future success. At the end of the day investors are people and your business is made of people. Investors need to deeply respect you and your core team members before they make any investment decisions. If they don’t spend time getting to know you personally, then beware, because this investor has ulterior motives and they will use their voting shares to push a different agenda.
 
