@@ -3,7 +3,6 @@ author = "Tom Counsell"
 categories = ["invstability"]
 date = "2019-01-03T00:00:00+01:00"
 description = "notes on startup founders"
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = ""
