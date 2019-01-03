@@ -24,10 +24,42 @@
         {{ if .Site.Params.rssAppearAtTop }}
           {{ partial "rss-icon" . }}
         {{ end }}
-        {{ partial "social" . }}
+        {{ partial "social" .Site.Params.social }}
       </ul>
     {{ end }}
   </section>
+
+  <!-- Members List -->
+  <section class="recent-posts">
+    <div class="mini-posts">
+      <header>
+        <h3>{{ .Site.Params.members.title }}</h3>
+      </header>
+      <div class="posts-container">
+
+        {{ range .Site.Params.members.item }}
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+              </h3>
+              <p class="published" datetime=''>
+                {{ .description | markdownify }}
+              </p>
+
+              <ul class="icons">
+                {{ partial "social" .social }}
+              </ul>
+
+            </header>
+          </article>
+        {{ end }}
+      </div>
+
+    </div>
+  </section>
+
+
 
   <!-- Posts List -->
   <section class="recent-posts">
@@ -124,7 +156,7 @@
         {{ if .Site.Params.rssAppearAtBottom }}
           {{ partial "rss-icon" . }}
         {{ end }}
-        {{ partial "social" . }}
+        {{ partial "social" .Site.Params.social }}
       </ul>
     {{ end }}
     <p class="copyright">
