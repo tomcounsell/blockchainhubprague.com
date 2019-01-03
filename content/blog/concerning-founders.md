@@ -12,7 +12,7 @@ title = "Concerning Founders"
 type = "post"
 
 +++
-Startup Investability Series: Concerning Founders
+## Startup Investability Series: Concerning Founders
 
 For young startups, the founding team is the biggest identifier of future success. At the end of the day investors are people and your business is made of people. Investors need to deeply respect you and your core team members before they make any investment decisions. If they don’t spend time getting to know you personally, then beware, because this investor has ulterior motives and they will use their voting shares to push a different agenda.
 
@@ -20,7 +20,7 @@ This is one of the only places to truly boast (honestly, of course). The details
 
 On the quantitative value statements, showcase that your team is well-rounded overall. The diversity of skills/experiences should cover all the operations in your business model and necessary industry connections.
 
-### Statements for rating strength of Founders
+## Statements for rating strength of Founders
 
 **Qualitative Value**
 
