@@ -10,7 +10,7 @@ Blockchain Hub Prague is a business incubator for new startups. We all share a s
 Blockchain Technology Hub s.r.o.  
 Křižíkova 213/ 44, Karlín  
 18600 Praha 8  
-Czech Republic  
-  
+Czech Republic
+
 IČ: 06069231  
 0035681002/5500
