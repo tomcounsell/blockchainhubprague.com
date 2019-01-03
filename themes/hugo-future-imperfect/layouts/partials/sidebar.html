@@ -41,16 +41,17 @@
           <article class="mini-post">
             <header>
               <h3>
-                <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+                <a href="{{ .url }}" target="_blank">
+                  {{ .name }}
+                  <i class="fa fa-external-link"></i>
+                </a>
               </h3>
               <p class="published" datetime=''>
                 {{ .description | markdownify }}
               </p>
-
               <ul class="icons">
                 {{ partial "social" .social }}
               </ul>
-
             </header>
           </article>
         {{ end }}
