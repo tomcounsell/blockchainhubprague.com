@@ -53,3 +53,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/blog/concerning-founders.md
