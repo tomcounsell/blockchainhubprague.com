@@ -1,6 +1,6 @@
 +++
 author = "Tom Counsell"
-categories = ["invstability"]
+categories = ["Startups", "Investing", "Founders"]
 date = "2019-01-03T00:00:00+01:00"
 description = "Startup Investability Series"
 featured = "/media/main-qimg-ed0826b4ca218f9f6dbed2de62d650e5-c.jpg"

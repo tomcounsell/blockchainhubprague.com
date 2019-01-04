@@ -55,6 +55,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/blog/concerning-founders.md
 - content/blog/quarterly-update-april-2018.md
 - content/blog/welcome-to-blockchain-hub-top-homepage-blog.md
+- content/blog/concerning-founders.md
