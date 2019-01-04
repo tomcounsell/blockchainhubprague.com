@@ -125,7 +125,7 @@ canonifyURLs = true
       telegram = "aerum_news"
 
   [[params.members.item]]
-    name = "ZCoin"
+    name = "ZCoin is wierd"
     position = "Venture-Funded"
     description = "Top 100 cryptocurrency. Privacy Technology."
     img = "images/ZC-icon.png"
