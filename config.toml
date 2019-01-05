@@ -4,7 +4,7 @@ title = "Blockchain Hub Prague"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "" # don't use discus or comments at all
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -44,12 +44,11 @@ canonifyURLs = true
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
   socialShareFacebook  = true
   socialShareReddit    = true
   socialShareLinkedin  = true
-  socialShareStumbleupon = true
-  socialSharePinterest = true
+  socialShareStumbleupon = false
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -113,9 +112,10 @@ canonifyURLs = true
 
   [[params.members.item]]
     name = "Aerum"
-    position = "Token Sale, Dec 2018"
     description = "Scalable Ethereum sidechains solution as a service."
-    img = "images/AE-icon.png"
+    url = "https://aerum.com"
+    logo = "images/AE-icon.png"
+    funding = "Token Sale, Dec 2018"
     [params.members.item.social]
       facebook = "aerum_official"
       linkedin_company = "aerum-official"
@@ -126,9 +126,10 @@ canonifyURLs = true
 
   [[params.members.item]]
     name = "ZCoin"
-    position = "Venture-Funded"
     description = "Top 100 cryptocurrency. Privacy Technology."
-    img = "images/ZC-icon.png"
+    url = "https://zcoin.io"
+    logo = "images/ZC-icon.png"
+    funding = "Venture-Funded"
     [params.members.item.social]
       facebook = "zcoinofficial"
       twitter = "zcoinofficial"
@@ -138,9 +139,9 @@ canonifyURLs = true
 
   [[params.members.item]]
     name = "Crowdholding"
-    logo = "images/CH-logo.jpg"
     description = "Open innovation and ideation platform for startups."
     url = "https://crowdholding.com"
+    logo = "images/CH-logo.png"
     funding = "ICO, Jan 2018"
     [params.members.item.social]
       facebook = "Crowdholding"
@@ -151,9 +152,10 @@ canonifyURLs = true
 
   [[params.members.item]]
     name = "Intelligent Trading Foundation"
-    position = "Token Sale, Sept 2017"
     description = "AI-powered crypto trading and portfolio management."
-    img = "images/ITF-icon.jpg"
+    url = "https://intelligenttrading.org"
+    logo = "images/ITF-icon.png"
+    funding = "Token Sale, Sept 2017"
     [params.members.item.social]
       facebook = "IntelligentTradingFoundation"
       twitter = "tryITF"
@@ -164,11 +166,17 @@ canonifyURLs = true
 
   [[params.members.item]]
     name = "New Life"
-    position = "Privately-Funded"
-    description = "iOS app for underground fasion and art in digital economy."
-    img = "images/NL-icon.png"
+    description = "mobile app for fasion and art in digital economy."
+    url = "https://newlife.ai"
+    logo = "images/NL-icon.png"
+    funding = "Privately-Funded"
     [params.members.item.social]
-      facebook = "https://www.facebook.com/newlifeai/"
+      facebook = "newlifeai"
+      instagram = "newlife.ai"
+      linkedin_company = "newcoin"
+      twitter = "NewLifeAI"
+      youtube = "newlifeai"
+      medium = "NEWCOIN.Network"
 
 
 # Sets the menu items in the navigation bar
@@ -235,7 +243,6 @@ canonifyURLs = true
   slideshare       = ""
   # Social Networks
   facebook         = "blockchainhubprague"
-  googleplus       = ""
   reddit           = ""
   quora            = ""
   youtube          = ""
