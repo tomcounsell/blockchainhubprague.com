@@ -24,7 +24,7 @@ sections:
   label: Itemized
   create: all
   match: "**/*"
-upload_dir: static/img
+upload_dir: static/media
 public_path: "/media"
 front_matter_path: ''
 use_front_matter_path: false
