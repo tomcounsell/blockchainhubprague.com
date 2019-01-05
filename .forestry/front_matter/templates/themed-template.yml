@@ -8,22 +8,27 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: linktitle
+  label: Linktitle
+  type: text
+  hidden: false
+  default: ''
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: 2019-01-01 00:00:00 +0100
 - name: type
   label: Type
   type: text
   hidden: false
-  default: ''
+  default: post
   description: for normal blog posts, put "post"
 - name: author
   label: Author
   type: text
   hidden: false
-  default: ''
+  default: Tom Counsell
 - name: categories
   label: Categories
   type: tag_list
@@ -44,6 +49,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: description of image
 - name: featuredpath
   label: Featuredpath
   type: text
@@ -51,12 +57,7 @@ fields:
   default: "/media/"
   config:
     required: false
-  description: enter "/media/" if image was uploaded here
-- name: linktitle
-  label: Linktitle
-  type: text
-  hidden: false
-  default: ''
+  description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
 pages:
 - content/blog/quarterly-update-april-2018.md
 - content/blog/concerning-founders.md
