@@ -17,7 +17,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2019-01-01 00:00:00 +0100
+  default: 2018-12-31 23:00:00 +0000
 - name: type
   label: Type
   type: text
@@ -60,5 +60,5 @@ fields:
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
 pages:
 - content/blog/quarterly-update-april-2018.md
-- content/blog/concerning-founders.md
 - content/blog/welcome-to-blockchain-hub-top-homepage-blog.md
+- content/blog/concerning-founders.md
