@@ -8,3 +8,5 @@ fields:
   label: Title
   config:
     required: true
+pages:
+- content/jobs/senior-mobile-engineer.md
