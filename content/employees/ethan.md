@@ -9,7 +9,8 @@ featuredpath = ""
 format = "Golang"
 link = "#"
 linktitle = ""
-title = "Fancy App 2"
+name = "Ethan Clime"
+title = "Community Director"
 type = "itemized"
 
 +++
