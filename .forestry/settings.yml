@@ -4,6 +4,8 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Blog
 - type: directory
   path: content/blog
   label: Blog
@@ -18,12 +20,23 @@ sections:
   path: content/contact/_index.md
   label: Contact
 - type: heading
-  label: Items
+  label: Lists of Things
 - type: directory
-  path: content/itemized
-  label: Itemized
+  path: content/employees
+  label: Employees
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - employees
+- type: directory
+  path: content/member_startups
+  label: Member Startups
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - member-startup
 upload_dir: static/media
 public_path: ''
 front_matter_path: ''
