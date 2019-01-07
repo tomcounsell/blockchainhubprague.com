@@ -22,7 +22,7 @@ sections:
 - type: heading
   label: Other Things
 - type: directory
-  path: content/employees
+  path: content/lists/employees
   label: Employees
   create: all
   match: "**/*"
@@ -30,7 +30,7 @@ sections:
   templates:
   - employees
 - type: directory
-  path: content/member_startups
+  path: content/lists/member_startups
   label: Member Startups
   create: all
   match: "**/*"
