@@ -9,10 +9,8 @@ Blockchain Hub Prague is a business incubator for new startups. We all share a s
 
 ## Our Staff
 
-* Tom Counsell  
-  linkedin.com/in/tomcounsell
-* Ethan Clime  
-  linkedin.com/in/ethan-clime-93a42b89
+* Tom Counsell
+* Ethan Clime
 * Ben Lakoff
 * Andrea Kobrlova
 * Kristyna Brizova
