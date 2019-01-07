@@ -4,6 +4,12 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
+- type: document
+  path: content/contact/_index.md
+  label: Contact
+  read_only: false
 - type: directory
   path: content/blog
   label: Blog
@@ -14,9 +20,6 @@ sections:
   label: About
   create: all
   match: "**/*"
-- type: document
-  path: content/contact/_index.md
-  label: Contact
 - type: directory
   path: content/itemized
   label: Itemized
