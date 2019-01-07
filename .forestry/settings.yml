@@ -26,7 +26,7 @@ sections:
   label: Employees
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - employees
 - type: directory
@@ -34,7 +34,7 @@ sections:
   label: Member Startups
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - member-startup
 upload_dir: static/media
