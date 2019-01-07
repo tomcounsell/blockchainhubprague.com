@@ -20,3 +20,5 @@ fields:
   name: linkedin_personal
   label: LinkedIn
   description: linkedin username from linkedin.com/in/________
+pages:
+- content/employees/executive-assistant.md
