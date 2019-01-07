@@ -15,8 +15,9 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: content/contact
+  path: content/contact/_index.md
   label: Contact
+  read_only: false
 - type: directory
   path: content/itemized
   label: Itemized
