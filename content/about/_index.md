@@ -7,7 +7,7 @@ title = "About Blockchain Hub"
 
 Blockchain Hub Prague is a business incubator for new startups. We all share a stimulating office space where we collaborate, sharing knowledge and resources.
 
-## Our Directors
+## Our Staff
 
 * Tom Counsell  
   linkedin.com/in/tomcounsell
