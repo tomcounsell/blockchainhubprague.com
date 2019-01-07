@@ -10,14 +10,10 @@ preserveTaxonomyNames = true
 theme = "hugo-future-imperfect"
 title = "Blockchain Hub Prague"
 [[menu.main]]
-name = "Jobs"
-url = "/jobs/"
-weight = 4
-[[menu.main]]
 identifier = "fa fa-envelope-o"
 name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 4
 [[menu.main]]
 identifier = "fa fa-newspaper-o"
 name = "Blog"
