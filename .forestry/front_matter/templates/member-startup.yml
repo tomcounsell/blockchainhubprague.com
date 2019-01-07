@@ -20,6 +20,3 @@ fields:
   label: Logo
   config:
     maxSize: '1'
-pages:
-- content/member_startups/crowdholding.md
-- content/member_startups/intelligenttrading.md

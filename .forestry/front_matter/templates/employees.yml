@@ -28,7 +28,3 @@ fields:
     max: '10'
     step: '1'
     required: true
-pages:
-- content/employees/finance-director.md
-- content/employees/executive-assistant.md
-- content/employees/office-manager.md
