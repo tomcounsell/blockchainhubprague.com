@@ -1,0 +1,22 @@
+---
+label: Member Startup
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: description
+  label: Description
+  description: describe the business in eight words or less
+- type: text
+  name: url
+  label: Website
+- type: file
+  name: logo
+  label: Logo
+  config:
+    maxSize: '1'
