@@ -20,6 +20,14 @@ fields:
   name: linkedin_personal
   label: LinkedIn
   description: linkedin username from linkedin.com/in/________
+- type: number
+  name: priority
+  label: Page Priority
+  config:
+    min: '1'
+    max: '10'
+    step: '1'
+    required: true
 pages:
 - content/employees/finance-director.md
 - content/employees/executive-assistant.md
