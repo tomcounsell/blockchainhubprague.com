@@ -22,6 +22,12 @@ sections:
 - type: heading
   label: Other Things
 - type: directory
+  path: content/jobs
+  label: Jobs
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: content/lists/employees
   label: Employees
   create: all
