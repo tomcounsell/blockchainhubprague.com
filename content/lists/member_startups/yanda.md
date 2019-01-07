@@ -1,7 +1,7 @@
 +++
 name = "Yanda"
 description = ""
-url = "https://yanda.io"
+url = ""
 logo = ""
 funding = ""
 
