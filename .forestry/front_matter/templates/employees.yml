@@ -1,0 +1,19 @@
+---
+label: Employees
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: linkedin_personal
+  label: LinkedIn
+  description: linkedin username from linkedin.com/in/________
