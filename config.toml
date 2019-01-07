@@ -1,266 +1,188 @@
 baseURL = "/"
-languageCode = "en-us"
-title = "Blockchain Hub Prague"
-theme = "hugo-future-imperfect"
-preserveTaxonomyNames = true
-paginate = 3
-disqusShortname = "" # don't use discus or comments at all
-googleAnalytics = ""
-pluralizeListTitles = false
-# Set the followings to true as part of your site SEO
-enableRobotsTXT = true
 canonifyURLs = true
-
+disqusShortname = ""
+enableRobotsTXT = true
+googleAnalytics = ""
+languageCode = "en-us"
+paginate = 3
+pluralizeListTitles = false
+preserveTaxonomyNames = true
+theme = "hugo-future-imperfect"
+title = "Blockchain Hub Prague"
+[[menu.main]]
+name = "Jobs"
+url = "/jobs/"
+weight = 4
+[[menu.main]]
+identifier = "fa fa-envelope-o"
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[menu.main]]
+identifier = "fa fa-newspaper-o"
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[menu.main]]
+identifier = "fa fa-id-card-o"
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "fa fa-home"
+name = "Home"
+url = "/"
+weight = 1
 [params]
-  # Sets the meta tag description
-  description          = "Startup Incubator Blockchain Hub Prague Czech Republic for Entrepreneurs and Small Business"
-  # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Blockchain Hub Prague"
-  # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
-
-# Optional Params
-  # Sets navbarTitle to match the section of the website
-  dynamicTitles        = true
-  # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = true
-  rssAppearAtBottom    = true
-  # Sets Social Media icons to appear on the sidebar
-  socialAppearAtTop    = true
-  socialAppearAtBottom = true
-  # Sets Categories to sort by number of posts instead of alphabetical
-  categoriesByCount    = true
-  # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
-  # Sets Estimated Reading Time to appear in post headers
-  includeReadingTime   = true
-  # Sets the Favicon and Version for the site. Default support is for
-  # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
-  # These are stored in the favicon folder. See the following for more information:
-  # https://github.com/audreyr/favicon-cheat-sheet
-  loadFavicon          = false
-  faviconVersion       = ""
-  # Sets Social Share links to appear on posts
-  socialShare          = true
-  # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = true
-  socialShareFacebook  = true
-  socialShareReddit    = true
-  socialShareLinkedin  = true
-  socialShareStumbleupon = false
-  socialSharePinterest = false
-  socialShareEmail     = true
-
-  # Load custom CSS or JavaScript files. The variable is an array so that you
-  # can load multiple files if necessary. You can also load the standard theme
-  # files by adding the value, "default".
-  # customCSS            = ["default", "/path/to/file"]
-  # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default"]
-  customJS             = ["default"]
-
-  # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
-  highlightjsVersion = "9.11.0"
-  highlightjsCDN = "//cdn.bootcss.com"
-  highlightjsLang = ["r", "yaml", "css"]
-  highlightjsTheme = "github"
-  MathJaxCDN = "//cdn.bootcss.com"
-  MathJaxVersion = "2.7.1"
-
-# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
-# due to its ease of use. Feel free to check out both and decide what you would
-# prefer to use. See Staticman.yml for additional settings.
-[params.staticman]
-  # Sets Statiman to be active
-  staticman = false
-  # Sets the location for Staticman to connect to
-  username  = ""
-  repo      = ""
-  branch    = ""
-
-  [params.staticman.recaptcha]
-    sitekey = "SITE_KEY"
-    secret  = "ENCRYPTED_SECRET"
-
-  # These are optional params related to the sidebar. They are recommended, but not
-  # required for proper functionality. HTML is supported within the params.
+MathJaxCDN = "//cdn.bootcss.com"
+MathJaxVersion = "2.7.1"
+categoriesByCount = true
+customCSS = ["default"]
+customJS = ["default"]
+description = "Startup Incubator Blockchain Hub Prague Czech Republic for Entrepreneurs and Small Business"
+disable_highlight = false
+dynamicTitles = true
+faviconVersion = ""
+highlightjsCDN = "//cdn.bootcss.com"
+highlightjsLang = ["r", "yaml", "css"]
+highlightjsTheme = "github"
+highlightjsVersion = "9.11.0"
+includeReadingTime = true
+loadFavicon = false
+navbarTitle = "Blockchain Hub Prague"
+rssAppearAtBottom = true
+rssAppearAtTop = true
+showSidebarCategories = true
+socialAppearAtBottom = true
+socialAppearAtTop = true
+socialShare = true
+socialShareEmail = true
+socialShareFacebook = true
+socialShareLinkedin = true
+socialSharePinterest = false
+socialShareReddit = true
+socialShareStumbleupon = false
+socialShareTwitter = true
+viewMorePostLink = "/blog/"
 [params.intro]
-  header    = "Blockchain Hub Prague"
-
-  paragraph = "For blockchain projects to synergize and succeed."
-
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
-
-  # This appears at the top of the sidebar above params.intro.header.
-  # A width of less than 100px is recommended from a design perspective.
-  [params.intro.pic]
-    src       = "/media/main/BH-logo.png"
-    # Sets Image to be a cirlce
-    circle    = false
-    # Sets Image to be Future Imperfect's hexagon
-    imperfect = false
-    width     = ""
-    alt       = "Hugo Future Imperfect"
-
-[params.postAmount]
-# Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
-
+about = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+header = "Blockchain Hub Prague"
+paragraph = "For blockchain projects\u2028to synergize and succeed."
+[params.intro.pic]
+alt = "Hugo Future Imperfect"
+circle = false
+imperfect = false
+src = "/media/main/BH-logo.png"
+width = ""
 [params.members]
-  title    = "Member Startups"
-
-  [[params.members.item]]
-    name = "Aerum"
-    description = "Scalable Ethereum sidechains solution as a service."
-    url = "https://aerum.com"
-    logo = "images/AE-icon.png"
-    funding = "Token Sale, Dec 2018"
-    [params.members.item.social]
-      facebook = "aerum_official"
-      linkedin_company = "aerum-official"
-      twitter = "Aerum_official"
-      github = "aerumtechnology"
-      reddit = "aerum"
-      telegram = "aerum_news"
-
-  [[params.members.item]]
-    name = "ZCoin"
-    description = "Top 100 cryptocurrency. Privacy Technology."
-    url = "https://zcoin.io"
-    logo = "images/ZC-icon.png"
-    funding = "Venture-Funded"
-    [params.members.item.social]
-      facebook = "zcoinofficial"
-      twitter = "zcoinofficial"
-      telegram = "zcoinproject"
-      youtube = "zcoin"
-      reddit = "zcoin"
-
-  [[params.members.item]]
-    name = "Crowdholding"
-    description = "Open innovation and ideation platform for startups."
-    url = "https://crowdholding.com"
-    logo = "images/CH-logo.png"
-    funding = "ICO, Jan 2018"
-    [params.members.item.social]
-      facebook = "Crowdholding"
-      twitter = "crowdholding"
-      linkedin_company = "crowdholding"
-      github = "Crowdholding"
-      telegram = "Crowdholding"
-
-  [[params.members.item]]
-    name = "Intelligent Trading Foundation"
-    description = "AI-powered crypto trading and portfolio management."
-    url = "https://intelligenttrading.org"
-    logo = "images/ITF-icon.png"
-    funding = "Token Sale, Sept 2017"
-    [params.members.item.social]
-      facebook = "IntelligentTradingFoundation"
-      twitter = "tryITF"
-      reddit = "intelligenttrading"
-      github = "IntelligentTrading"
-      telegram = "intelligenttrading"
-      linkedin_company = "intelligenttrading"
-
-  [[params.members.item]]
-    name = "New Life"
-    description = "mobile app for fasion and art in digital economy."
-    url = "https://newlife.ai"
-    logo = "images/NL-icon.png"
-    funding = "Privately-Funded"
-    [params.members.item.social]
-      facebook = "newlifeai"
-      instagram = "newlife.ai"
-      linkedin_company = "newcoin"
-      twitter = "NewLifeAI"
-      youtube = "newlifeai"
-      medium = "NEWCOIN.Network"
-
-
-# Sets the menu items in the navigation bar
-# Identifier prepends a Font Awesome icon to the menu item
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  identifier = "fa fa-home"
-  weight = 1
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
-  weight = 2
-
-[[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  identifier = "fa fa-newspaper-o"
-  weight = 3
-
-# [[menu.main]]
-#   name = "Itemized"
-#   url = "/itemized/"
-#   identifier = "fa fa-list"
-#   weight = 4
-#
-# [[menu.main]]
-#   name = "Categories"
-#   url = "/categories/"
-#   identifier = "fa fa-sitemap"
-#   weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 6
-
-# Sets Social Media icons to appear and link to your account. Value should be your
-# username unless otherwise noted. These are the icons affected by socialAppearAtTop
-# and socialAppearAtBottom.
+title = "Member Startups"
+[[params.members.item]]
+description = "Scalable Ethereum sidechains solution as a service."
+funding = "Token Sale, Dec 2018"
+logo = "images/AE-icon.png"
+name = "Aerum"
+url = "https://aerum.com"
+[params.members.item.social]
+facebook = "aerum_official"
+github = "aerumtechnology"
+linkedin_company = "aerum-official"
+reddit = "aerum"
+telegram = "aerum_news"
+twitter = "Aerum_official"
+[[params.members.item]]
+description = "Top 100 cryptocurrency. Privacy Technology."
+funding = "Venture-Funded"
+logo = "images/ZC-icon.png"
+name = "ZCoin"
+url = "https://zcoin.io"
+[params.members.item.social]
+facebook = "zcoinofficial"
+reddit = "zcoin"
+telegram = "zcoinproject"
+twitter = "zcoinofficial"
+youtube = "zcoin"
+[[params.members.item]]
+description = "Open innovation and ideation platform for startups."
+funding = "ICO, Jan 2018"
+logo = "images/CH-logo.png"
+name = "Crowdholding"
+url = "https://crowdholding.com"
+[params.members.item.social]
+facebook = "Crowdholding"
+github = "Crowdholding"
+linkedin_company = "crowdholding"
+telegram = "Crowdholding"
+twitter = "crowdholding"
+[[params.members.item]]
+description = "AI-powered crypto trading and portfolio management."
+funding = "Token Sale, Sept 2017"
+logo = "images/ITF-icon.png"
+name = "Intelligent Trading Foundation"
+url = "https://intelligenttrading.org"
+[params.members.item.social]
+facebook = "IntelligentTradingFoundation"
+github = "IntelligentTrading"
+linkedin_company = "intelligenttrading"
+reddit = "intelligenttrading"
+telegram = "intelligenttrading"
+twitter = "tryITF"
+[[params.members.item]]
+description = "mobile app for fasion and art in digital economy."
+funding = "Privately-Funded"
+logo = "images/NL-icon.png"
+name = "New Life"
+url = "https://newlife.ai"
+[params.members.item.social]
+facebook = "newlifeai"
+instagram = "newlife.ai"
+linkedin_company = "newcoin"
+medium = "NEWCOIN.Network"
+twitter = "NewLifeAI"
+youtube = "newlifeai"
+[params.postAmount]
+sidebar = 5
 [params.social]
-  # Coding Communities
-  gitlab           = ""
-  stackoverflow    = "" # User Number
-  bitbucket        = ""
-  jsfiddle         = ""
-  codepen          = ""
-  # Visual Art Communities
-  deviantart       = ""
-  flickr           = ""
-  behance          = ""
-  dribbble         = ""
-  # Publishing Communities
-  wordpress        = ""
-  medium           = ""
-  # Professional/Business Oriented Communities
-  linkedin         = ""
-  linkedin_company = "blockchain-hub-prague"
-  foursquare       = ""
-  xing             = ""
-  slideshare       = ""
-  # Social Networks
-  facebook         = "blockchainhubprague"
-  reddit           = ""
-  quora            = ""
-  youtube          = ""
-  vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat         = ""
-    qq             = "" # User ID Number
-  instagram        = ""
-  tumblr           = ""
-  twitter          = ""
-  skype            = ""
-  snapchat         = ""
-  pinterest        = ""
-  telegram         = ""
-  vine             = ""
-  googlescholar    = ""
-  orcid            = ""
-  researchgate     = ""
-  # Email
-  email            = "info@blockchainhubprague.com"
+behance = ""
+bitbucket = ""
+codepen = ""
+deviantart = ""
+dribbble = ""
+email = "info@blockchainhubprague.com"
+facebook = "blockchainhubprague"
+flickr = ""
+foursquare = ""
+gitlab = ""
+googlescholar = ""
+instagram = ""
+jsfiddle = ""
+linkedin = ""
+linkedin_company = "blockchain-hub-prague"
+medium = ""
+orcid = ""
+pinterest = ""
+qq = ""
+quora = ""
+reddit = ""
+researchgate = ""
+skype = ""
+slideshare = ""
+snapchat = ""
+stackoverflow = ""
+telegram = ""
+tumblr = ""
+twitter = ""
+vimeo = ""
+vine = ""
+wechat = ""
+whatsapp = ""
+wordpress = ""
+xing = ""
+youtube = ""
+[params.staticman]
+branch = ""
+repo = ""
+staticman = false
+username = ""
+[params.staticman.recaptcha]
+secret = "ENCRYPTED_SECRET"
+sitekey = "SITE_KEY"
