@@ -20,7 +20,7 @@ sections:
   path: content/contact/_index.md
   label: Contact
 - type: heading
-  label: Lists of Things
+  label: Other Things
 - type: directory
   path: content/employees
   label: Employees
