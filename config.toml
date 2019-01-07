@@ -1,4 +1,4 @@
-baseURL = "https://blockchainhubprague.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Blockchain Hub Prague"
 theme = "hugo-future-imperfect"
