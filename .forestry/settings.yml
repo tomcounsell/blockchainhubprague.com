@@ -9,7 +9,6 @@ sections:
 - type: document
   path: content/contact/_index.md
   label: Contact
-  read_only: false
 - type: directory
   path: content/blog
   label: Blog
