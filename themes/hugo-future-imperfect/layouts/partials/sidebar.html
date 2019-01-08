@@ -29,6 +29,7 @@
     {{ end }}
   </section>
 
+
   <!-- Members List -->
   <section class="recent-posts">
     <div class="mini-posts">
@@ -36,30 +37,12 @@
         <h3>{{ .Site.Params.members.title }}</h3>
       </header>
       <div class="posts-container">
-
         {{ range .Site.Params.members.item }}
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="{{ .url }}" target="_blank">
-                  {{ .name }}
-                  <i class="fa fa-external-link"></i>
-                </a>
-              </h3>
-              <p class="published" datetime=''>
-                {{ .description | markdownify }}
-              </p>
-              <ul class="icons">
-                {{ partial "social" .social }}
-              </ul>
-            </header>
-          </article>
+          {{ partial "member_startup" . }}
         {{ end }}
       </div>
-
     </div>
   </section>
-
 
 
   <!-- Posts List -->

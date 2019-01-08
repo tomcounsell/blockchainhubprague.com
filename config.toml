@@ -75,7 +75,7 @@ title = "Member Startups"
 [[params.members.item]]
 description = "Scalable Ethereum sidechains solution as a service."
 funding = "Token Sale, Dec 2018"
-logo = "images/AE-icon.png"
+logo = "AE-logo.png"
 name = "Aerum"
 url = "https://aerum.com"
 [params.members.item.social]
@@ -88,7 +88,7 @@ twitter = "Aerum_official"
 [[params.members.item]]
 description = "Top 100 cryptocurrency. Privacy Technology."
 funding = "Venture-Funded"
-logo = "images/ZC-icon.png"
+logo = "ZC-logo.png"
 name = "ZCoin"
 url = "https://zcoin.io"
 [params.members.item.social]
@@ -100,7 +100,7 @@ youtube = "zcoin"
 [[params.members.item]]
 description = "Open innovation and ideation platform for startups."
 funding = "ICO, Jan 2018"
-logo = "images/CH-logo.png"
+logo = "CH-logo.png"
 name = "Crowdholding"
 url = "https://crowdholding.com"
 [params.members.item.social]
@@ -112,7 +112,7 @@ twitter = "crowdholding"
 [[params.members.item]]
 description = "AI-powered crypto trading and portfolio management."
 funding = "Token Sale, Sept 2017"
-logo = "images/ITF-icon.png"
+logo = "ITF-logo.png"
 name = "Intelligent Trading Foundation"
 url = "https://intelligenttrading.org"
 [params.members.item.social]
@@ -125,7 +125,7 @@ twitter = "tryITF"
 [[params.members.item]]
 description = "mobile app for fasion and art in digital economy."
 funding = "Privately-Funded"
-logo = "images/NL-icon.png"
+logo = "NL-logo.png"
 name = "New Life"
 url = "https://newlife.ai"
 [params.members.item.social]

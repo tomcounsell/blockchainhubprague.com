@@ -1,0 +1,23 @@
+<article class="mini-post">
+  <header style="padding-right:1em">
+    <h3>
+      {{ if .logo }}
+        <img src="/media/main/{{ .logo }}" alt="{{ .name }} Logo" class=""
+              style="height: 2em; width: 2em; margin: 0 1em; float:right;">
+      {{ end }}
+      <a href="{{ .url }}" target="_blank">
+        {{ .name }}
+        <i class="fa fa-external-link"></i>
+      </a>
+    </h3>
+
+    <p class="published" datetime='' style="margin: 1em 0 0">
+      {{ .description | markdownify }}
+    </p>
+
+    <ul class="icons">
+      {{ partial "social" .social }}
+    </ul>
+  </header>
+
+</article>
