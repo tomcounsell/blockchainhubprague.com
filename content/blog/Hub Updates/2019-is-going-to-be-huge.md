@@ -3,8 +3,7 @@ author = "Tom Counsell"
 categories = ["Announcements"]
 date = "2019-01-08T00:00:00+01:00"
 description = "Blockchain Hub Prage has HUGE plans for 2019."
-draft = true
-featured = ""
+featured = "/777F454F-4A1E-4727-BE69-ECE5EFB85CB9.jpeg"
 featuredalt = ""
 featuredpath = "/media/"
 linktitle = "2019-is-huge"
@@ -20,7 +19,7 @@ Everyone took an extended holiday in December, but now we are quickly launching 
 
 A design sprint is a 5-day workshop with about 8 people. The goal is to rapidly design and build a whole new product and then wrap up the week by testing it on real customers. This process was invented by Google Ventures and is becoming very popular among the most innovative companies around the world.
 
-We performed a mini-sprint to test the process in December with Intelligent Trading Foundation. The result was an amazingly fresh look on a new product we had been talking about but didn’t create yet. Everyone was impressed how quickly we built a prototype and then got immediate feedback from real customers.
+We performed a mini-sprint to test the process in December with [Intelligent Trading Foundation](https://intelligenttrading.org "Intelligent Trading Foundation"). The result was an amazingly fresh look on a new product we had been talking about but didn’t create yet. Everyone was impressed how quickly we built a prototype and then got immediate feedback from real customers.
 
 The next design sprints are scheduled for the week of Jan 28 and again Feb xx. If you are based in Prague and want to join us for one of these, please go to our signup form. Also you can track our progress across projects on our public Trello board for Ideas Factory.
 
