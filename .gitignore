@@ -1,9 +1,9 @@
 
 *.DS_Store
+*.gitkeep
 .git/
 .github/
 
 
 exampleSite/
 public/
-.DS_Store
