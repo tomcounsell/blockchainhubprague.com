@@ -11,7 +11,7 @@ sections:
   label: Blog Posts
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 - type: directory
@@ -19,7 +19,7 @@ sections:
   label: Hub Updates
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 - type: directory
@@ -27,7 +27,7 @@ sections:
   label: Events
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - blog-post
 - type: heading
