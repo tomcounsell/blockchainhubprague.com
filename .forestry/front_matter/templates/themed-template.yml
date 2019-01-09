@@ -58,7 +58,3 @@ fields:
   config:
     required: false
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
-pages:
-- content/blog/quarterly-update-april-2018.md
-- content/blog/welcome-to-blockchain-hub-top-homepage-blog.md
-- content/blog/Hub Updates/2019-is-going-to-be-huge.md
