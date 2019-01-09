@@ -58,3 +58,5 @@ fields:
   config:
     required: false
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
+pages:
+- content/blog/hub-updates/quarterly/2018q1.md
