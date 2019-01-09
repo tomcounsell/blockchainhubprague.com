@@ -21,7 +21,7 @@ A design sprint is a 5-day workshop with about 8 people. The goal is to rapidly 
 
 We performed a mini-sprint to test the process in December with [Intelligent Trading Foundation](https://intelligenttrading.org "Intelligent Trading Foundation"). The result was an amazingly fresh look on a new product we had been talking about but didn’t create yet. Everyone was impressed how quickly we built a prototype and then got immediate feedback from real customers.
 
-The next design sprints are scheduled for the week of Jan 28 and again Feb xx. If you are based in Prague and want to join us for one of these, please go to our signup form. Also you can track our progress across projects on our public Trello board for Ideas Factory.
+The next design sprints are scheduled for the week of Jan 28th and again Feb 18th. If you are based in Prague and want to join us for one of these, please go to our [signup form](https://airtable.com/shrl8KSKpXPa04Wy0 "Design Sprint Signup"). Also you can track our progress across projects on our public Trello board for [Ideas Factory](https://trello.com/b/2TaxsEbm/ideas-factory# "Ideas Factory on Trello").
 
 ## Educational Events
 
