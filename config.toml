@@ -10,25 +10,29 @@ preserveTaxonomyNames = true
 theme = "hugo-future-imperfect"
 title = "Blockchain Hub Prague"
 [[menu.main]]
-identifier = "fa fa-envelope-o"
-name = "Contact"
-url = "/contact/"
-weight = 4
+name = "Meetup Events"
+url = "https://www.meetup.com/BlockchainHubPrague/events/"
+weight = 5
 [[menu.main]]
-identifier = "fa fa-newspaper-o"
-name = "Blog"
-url = "/blog/"
-weight = 3
+identifier = "fa fa-home"
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 identifier = "fa fa-id-card-o"
 name = "About"
 url = "/about/"
 weight = 2
 [[menu.main]]
-identifier = "fa fa-home"
-name = "Home"
-url = "/"
-weight = 1
+identifier = "fa fa-newspaper-o"
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[menu.main]]
+identifier = "fa fa-envelope-o"
+name = "Contact"
+url = "/contact/"
+weight = 4
 [params]
 MathJaxCDN = "//cdn.bootcss.com"
 MathJaxVersion = "2.7.1"
