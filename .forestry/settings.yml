@@ -7,10 +7,18 @@ sections:
 - type: heading
   label: Blog
 - type: directory
-  path: content/blog
-  label: Blog
+  path: content/blog/updates
+  label: BH Updates
   create: all
   match: "**/*"
+  templates:
+  - themed-template
+- type: directory
+  path: content/blog/events
+  label: Events
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: heading
   label: Pages
 - type: document
