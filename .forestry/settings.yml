@@ -7,11 +7,19 @@ sections:
 - type: heading
   label: Blog
 - type: directory
+  path: content/blog/posts
+  label: Blog Posts
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - blog-post
+- type: directory
   path: content/blog/hub-updates
   label: Hub Updates
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - blog-post
 - type: directory
@@ -19,7 +27,7 @@ sections:
   label: Events
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - blog-post
 - type: heading
