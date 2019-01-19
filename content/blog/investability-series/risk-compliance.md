@@ -1,6 +1,6 @@
 +++
 author = "Tom Counsell"
-categories = ["Startups", "Investing", "Industry"]
+categories = ["Startups", "Investing", "Risk", "Compliance"]
 date = "2019-01-01T00:00:00+01:00"
 description = "Startup Investability Series"
 draft = true
@@ -14,14 +14,18 @@ type = "post"
 +++
 # Assessing Your Industry
 
-Often times, a business can succeeds even when they are losing market share to thier competition. That’s because even if you can’t get a bigger “piece of the pie” you might be sharing a pie thaf is growing bigger fast!
+Your diligence to watch and review the risks you face and your compliance with market regulations helps to remove stress for you and your investors. Another way to look at this is thinking, “how can we minimize the scary factor”. 
 
-An analysis of your industry and where it is headed should be recent and come from a trusted source (eg. PwC, Reuters, etc). Depending on what the estimated growth rate is, you should adapt your business model and statement to take advantage of the direction your industry is moving.
+Both AirBnb and Uber were hardly investable early on because most everyone believed that strangers would not trust each other enough to ride in each others cars and sleep in each other’s extra bedrooms. Additionally, they operate in environments where hotels are districted and taxi drivers need a taxi license!
 
-If an investor you are talking to knows more about this industry than you do, then show humility during that meeting and take every opportunity to ask questions, showing your eagerness to learn the nuances.
+Don’t underestimate how much even the smallest amount of risk or fear can be big blockers for investors. 
 
-While it _might_ be possible to be successful during a negative growth or bubble market, be careful. Your industry is an externality that you cannot control, so if things are uncertain be ready to adapt your business model early and often.
+Also, if your business operates in a highly regulated or legal grey area (eg. transportation, food, drugs, securities, etc) you’ll need to seek out investors that have already expressed being comfortable with that industry.
 
-**Complete the following sentence to help score your business on it’s _Thriveability_**
+**Complete the following sentence to help score your business on it’s _Qualitative Value_**
 
-* _According to ... this authority ... this industry’s direction and growth rate is this ... (linear, exponential, S-curve, or bubble)_
+* _This is legal and trustworthy because ..._
+
+**Complete the following sentences to help score your business on it’s _Surviveability_**
+
+•  _In the case of market or regulatory hurdles, we are protecting downside risk by ..._
