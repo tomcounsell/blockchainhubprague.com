@@ -1,27 +1,27 @@
 +++
 author = "Tom Counsell"
-categories = ["Startups", "Investing", "Industry"]
+categories = ["Startups", "Investing", "Business-Model"]
 date = "2019-01-03T00:00:00+01:00"
 description = "Startup Investability Series"
 draft = true
 featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "Startup Investability Series: Industry"
+linktitle = "Startup Investability Series: Business Model"
 title = "Business Model"
 type = "post"
 
 +++
 # Assessing Your Industry
 
-Often times, a business can succeeds even when they are losing market share to thier competition. That’s because even if you can’t get a bigger “piece of the pie” you might be sharing a pie thaf is growing bigger fast!
+In entrepreneurship, there is no such thing as a perfect business model. It’s actually a “business guess”. What matters here is 2 things.
 
-An analysis of your industry and where it is headed should be recent and come from a trusted source (eg. PwC, Reuters, etc). Depending on what the estimated growth rate is, you should adapt your business model and statement to take advantage of the direction your industry is moving.
+1\.  A complete business model canvas shows if there are any glaring holes in your idea and also shows that you have a plan for each “piece of the puzzle.” Have a mentor review your business model and rate each sub-section on it’s viability from their opinion.
 
-If an investor you are talking to knows more about this industry than you do, then show humility during that meeting and take every opportunity to ask questions, showing your eagerness to learn the nuances.
+2\.  When an investor understands the business model, does it give them a good gut-feeling? Is it believable? Are there any major unproven assumptions?
 
-While it _might_ be possible to be successful during a negative growth or bubble market, be careful. Your industry is an externality that you cannot control, so if things are uncertain be ready to adapt your business model early and often.
+**Complete the following sentences to help score your business on it’s _Qualitative Value_**
 
-**Complete the following sentence to help score your business on it’s _Thriveability_**
+•  This model adds value to the world by ... and helps solve the common problem ...
 
-* _According to ... this authority ... this industry’s direction and growth rate is this ... (linear, exponential, S-curve, or bubble)_
+•  There is precedent for this model, looking at ..
