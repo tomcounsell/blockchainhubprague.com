@@ -7,6 +7,14 @@ sections:
 - type: heading
   label: Blog
 - type: directory
+  path: content/blog/events
+  label: Events
+  create: all
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - blog-post
+- type: directory
   path: content/blog/posts
   label: Blog Posts
   create: all
@@ -23,11 +31,11 @@ sections:
   templates:
   - blog-post
 - type: directory
-  path: content/blog/events
-  label: Events
+  path: content/blog/investability-series
+  label: Investability Series
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - blog-post
 - type: heading
@@ -72,5 +80,12 @@ file_template: ":filename:"
 build:
   preview_command: hugo -D
   publish_command: hugo
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.53
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.53
+  preview_output_directory: public
   output_directory: public
 version: '0.53'
