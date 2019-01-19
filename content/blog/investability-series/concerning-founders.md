@@ -1,7 +1,7 @@
 +++
 author = "Tom Counsell"
 categories = ["Startups", "Investing", "Founders"]
-date = "2019-01-03T00:00:00+01:00"
+date = "2019-01-01T00:00:00+01:00"
 description = "Startup Investability Series"
 featured = "silicon_valley.jpg"
 featuredalt = "Silicon Valley founders photo by pool"
