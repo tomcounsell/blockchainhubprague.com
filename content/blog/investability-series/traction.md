@@ -12,7 +12,7 @@ title = "Traction"
 type = "post"
 
 +++
-# Assessing Your Traction
+# **Assessing Your Traction**
 
 Traction is the number one thing that entrepreneurs tend to lie about to investors. You will gain a lot more trust if you don’t try to fudge the numbers or sweet talk your way through using [vanity metrics](l). When talking to a serious investor, give them metrics that match with industry best practice measurements (eg. CAC/LTV or MOM gross margins).
 
