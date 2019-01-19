@@ -12,7 +12,7 @@ title = "Business Model"
 type = "post"
 
 +++
-# Assessing Your Industry
+# Assessing Your Business Model
 
 In entrepreneurship, there is no such thing as a perfect business model. It’s actually a “business guess”. What matters here is 2 things.
 
