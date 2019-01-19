@@ -1,9 +1,8 @@
 +++
 author = "Tom Counsell"
 categories = ["Startups", "Investing", "Industry"]
-date = "2019-01-03T00:00:00+01:00"
+date = "2019-01-01T00:00:00+01:00"
 description = "Startup Investability Series"
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
