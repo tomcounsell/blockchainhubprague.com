@@ -1,27 +1,33 @@
 +++
 author = "Tom Counsell"
-categories = ["Startups", "Investing", "Industry"]
+categories = ["Startups", "Investing", "Traction"]
 date = "2019-01-01T00:00:00+01:00"
 description = "Startup Investability Series"
 draft = true
 featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "Startup Investability Series: Industry"
+linktitle = "Startup Investability Series: Traction"
 title = "Traction"
 type = "post"
 
 +++
-# Assessing Your Industry
+# Assessing Your Traction
 
-Often times, a business can succeeds even when they are losing market share to thier competition. That’s because even if you can’t get a bigger “piece of the pie” you might be sharing a pie thaf is growing bigger fast!
+Traction is the number one thing that entrepreneurs tend to lie about to investors. You will gain a lot more trust if you don’t try to fudge the numbers or sweet talk your way through using [vanity metrics](l). When talking to a serious investor, give them metrics that match with industry best practice measurements (eg. CAC/LTV or MOM gross margins).
 
-An analysis of your industry and where it is headed should be recent and come from a trusted source (eg. PwC, Reuters, etc). Depending on what the estimated growth rate is, you should adapt your business model and statement to take advantage of the direction your industry is moving.
+Trying to whitewash your traction metrics will make you look like a slimy salesman and reduce your credibility across every other statement you make. This is your chance to show a potential investor that you are honest and grounded in reality. They’ve already talked to other entrepreneurs that are off in a delusional fantasy land. So don’t get labeled as one of those types!
 
-If an investor you are talking to knows more about this industry than you do, then show humility during that meeting and take every opportunity to ask questions, showing your eagerness to learn the nuances.
+Special note if you have been bootstrapping or running off very little funds so far:
 
-While it _might_ be possible to be successful during a negative growth or bubble market, be careful. Your industry is an externality that you cannot control, so if things are uncertain be ready to adapt your business model early and often.
+For metrics on operational ROI, count the value of your time as starting investment capital. This works because if you expect to take a salary, then your time will be directly measured in $$ anyway and that time should be properly allocated to business activities to maximize ROI.
 
-**Complete the following sentence to help score your business on it’s _Thriveability_**
+### **Complete the following sentences to help score your business on it’s _Quantitative Value_**
 
-* _According to ... this authority ... this industry’s direction and growth rate is this ... (linear, exponential, S-curve, or bubble)_
+* _Our metrics on ... validate our current expenses on ... in terms of ROI._
+* _Our past metrics on ... showed us ... so we shifted more focus/efforts into ..._
+* _Our KPI’s right now are ... (if applicable)_
+
+### **Note on KPI’s**
+
+Use KPI’s for departments in your company (eg. IT, sales) with 3 or more people. A good start is 1 internal KPI (eg. widgets shipped, sales leads contacted) and 1 external KPI (eg. CAC/LTV, active users)
