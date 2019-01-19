@@ -6,7 +6,7 @@ description = "Startup Investability Series"
 featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "Startup Investability Series: Industry"
+linktitle = "Startup Investability Series: Risk & Compliance"
 title = "Risk & Compliance"
 type = "post"
 
