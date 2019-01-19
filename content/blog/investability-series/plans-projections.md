@@ -1,27 +1,26 @@
 +++
 author = "Tom Counsell"
-categories = ["Startups", "Investing", "Industry"]
+categories = ["Startups", "Investing", "Plans", "Projections"]
 date = "2019-01-01T00:00:00+01:00"
 description = "Startup Investability Series"
-draft = true
 featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
-linktitle = "Startup Investability Series: Industry"
+linktitle = "Startup Investability Series: Plans & Projections"
 title = "Plans & Projections"
 type = "post"
 
 +++
-# Assessing Your Industry
+# Assessing Your Plans & Projections
 
-Often times, a business can succeeds even when they are losing market share to thier competition. That’s because even if you can’t get a bigger “piece of the pie” you might be sharing a pie thaf is growing bigger fast!
+Investors only exist and stay in business if they make a return on their investment. Likely the money they are investing in you came from a past success where they got a payout. They want to repeat that past success and hope you will give them that next payout. With your well conceived _plans_, you show them that you have a good financial _projections_ for bringing them that success (including an exit).
 
-An analysis of your industry and where it is headed should be recent and come from a trusted source (eg. PwC, Reuters, etc). Depending on what the estimated growth rate is, you should adapt your business model and statement to take advantage of the direction your industry is moving.
+**Complete the following sentences to help score your business on it’s _Surviveability_**
 
-If an investor you are talking to knows more about this industry than you do, then show humility during that meeting and take every opportunity to ask questions, showing your eagerness to learn the nuances.
+* _In our best-case scenario, we plan to ... use this much investment ... and with our model, are projecting ... growth and a $XX valuation in ... this many years._
+* _Worst case scenario, we have these other plans ... and it’s possible to mitigate your losses by doing ... which will retain a minimum valuation of ... $XX_
 
-While it _might_ be possible to be successful during a negative growth or bubble market, be careful. Your industry is an externality that you cannot control, so if things are uncertain be ready to adapt your business model early and often.
+**Complete the following sentences to help score your business on it’s _Quantitative Value_**
 
-**Complete the following sentence to help score your business on it’s _Thriveability_**
-
-* _According to ... this authority ... this industry’s direction and growth rate is this ... (linear, exponential, S-curve, or bubble)_
+* _These plans ...  are viable and these projections ... are acheivable based on these assumptions .... we made in the model._
+* _The most likely projections look like this ... and if we are extremely conservative, it would look something like this ..._
