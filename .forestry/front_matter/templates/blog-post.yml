@@ -60,3 +60,4 @@ fields:
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
 pages:
 - content/blog/hub-updates/quarterly/2018q1.md
+- content/blog/hub-updates/quarterly/2018q4-update.md
