@@ -60,5 +60,6 @@ fields:
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
 pages:
 - content/blog/hub-updates/quarterly/2018q4-update.md
+- content/blog/events/Lunch Language Exchange/chinese-2.md
 - content/blog/events/blockchain-hub-open-class.md
 - content/blog/hub-updates/quarterly/2018q1.md
