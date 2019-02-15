@@ -1,6 +1,7 @@
 +++
 date = "2019-02-15T13:57:44+01:00"
 description = "Mobile wallet payment system for small businesses."
+draft = true
 logo = "/balehu_logo.jpg"
 membership_type = "virtual"
 name = "Balehu"
