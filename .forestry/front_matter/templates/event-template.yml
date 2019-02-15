@@ -1,0 +1,20 @@
+---
+label: Event Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: name of the event
+  config:
+    required: true
+- type: datetime
+  name: event_date
+  label: Event Date
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: Categories
+  description: keywords (eg. chinese, lunch)
