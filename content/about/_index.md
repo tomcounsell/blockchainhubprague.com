@@ -11,7 +11,7 @@ Blockchain Hub Prague is a business incubator for new startups. We all share a s
 
 Tom Counsell
 
-<im src="![](https://www.dropbox.com/s/w7r3qe4kw4xlqcf/tom-square-1.jpg?dl=1)" style="width:4em;" alt="Tom Counsell">
+!\[very good|512x397,20%\](//discourse-meta.s3-us-west-1.amazonaws.com/original/3X/0/3/03741c9f3eafd7fc8ccd791a6971a2c0d52783e4.jpg)
 
 * Ethan Clime
 * Ben Lakoff
