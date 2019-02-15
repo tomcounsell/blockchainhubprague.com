@@ -8,7 +8,7 @@ featured = ""
 featuredalt = ""
 featuredpath = "/media/blog"
 linktitle = ""
-title = "Chinese #2"
+title = "Chinese #1"
 type = "post"
 
 +++
