@@ -54,7 +54,7 @@ fields:
   label: Featuredpath
   type: text
   hidden: false
-  default: "/media/blog"
+  default: "/media"
   config:
     required: false
   description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
