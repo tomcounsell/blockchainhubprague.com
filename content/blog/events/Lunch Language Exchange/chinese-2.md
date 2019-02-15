@@ -12,4 +12,4 @@ title = "Chinese #2"
 type = "post"
 
 +++
-Lunch Language Exchange is a weekly programme which starts to run on second Wednesday in February with *CHINESE BASIC PHRASES*. Our general idea is that everyone who wants to take part will bring their lunch to work, and together we will learn/teach something new between 1pm and 2pm.
+Lunch Language Exchange is a weekly programme which starts to run on second Wednesday in February with Chinese basic phrases. Our teacher for Chinese will be Shuyong from Crowdholding. Our general idea is that everyone who wants to take part will bring their lunch to work, and together we will learn/teach something new between 1pm and 2pm.
