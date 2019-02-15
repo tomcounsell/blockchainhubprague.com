@@ -1,15 +1,10 @@
 ---
-label: Blog Post Template
+label: Event Template
 hide_body: false
 is_partial: false
 fields:
 - name: title
   label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: linktitle
-  label: Linktitle
   type: text
   hidden: false
   default: ''
@@ -22,39 +17,10 @@ fields:
   label: Type
   type: text
   hidden: false
-  default: post
+  default: event
   description: for normal blog posts, put "post"
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: Tom Counsell
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
-- name: description
-  label: Description
-  type: text
-  hidden: false
-  default: ''
-- name: featured
-  label: Featured
-  type: file
-  hidden: false
-  default: ''
-- name: featuredalt
-  label: Featuredalt
-  type: text
-  hidden: false
-  default: ''
-  description: description of image
-- name: featuredpath
-  label: Featuredpath
-  type: text
-  hidden: false
-  default: "/media"
-  config:
-    required: false
-  description: set to url path, if image was not hosted here, eg. example.com/image/photo.jpg
