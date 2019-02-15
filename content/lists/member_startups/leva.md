@@ -1,7 +1,6 @@
 +++
 date = "2019-02-15T14:09:30+01:00"
 description = "DECENTRALIZED INVESTMENT PLATFORM SECURED BY BLOCKCHAIN TECHNOLOGY."
-draft = true
 logo = "/leva_logo.jpg"
 membership_type = "virtual"
 name = "Leva"
