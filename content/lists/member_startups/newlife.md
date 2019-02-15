@@ -1,7 +1,6 @@
 +++
 date = "2019-02-15T13:38:02+01:00"
 description = "MOBILE APP FOR FASION AND ART IN DIGITAL ECONOMY."
-draft = true
 logo = "/newlife_logo.png"
 membership_type = "virtual"
 name = "New Life"

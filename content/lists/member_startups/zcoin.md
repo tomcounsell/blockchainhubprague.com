@@ -1,7 +1,6 @@
 +++
 date = "2019-02-15T13:21:18+01:00"
 description = "TOP 100 CRYPTOCURRENCY. PRIVACY TECHNOLOGY."
-draft = true
 logo = "/ZCoin.png"
 membership_type = "standard"
 name = "ZCoin"
