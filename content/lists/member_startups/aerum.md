@@ -1,6 +1,7 @@
 +++
 date = "2019-02-15T13:03:00+01:00"
 description = "Nextgen blockchain for programmable P2P finance"
+draft = true
 logo = "/aerum-logo.jpg"
 membership_type = "standard"
 name = "AERUM"
