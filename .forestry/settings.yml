@@ -13,7 +13,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - blog-post
+  - event-template
 - type: directory
   path: content/blog/posts
   label: Blog Posts
