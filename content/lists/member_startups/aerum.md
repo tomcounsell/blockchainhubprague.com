@@ -1,7 +1,6 @@
 +++
 date = "2019-02-15T13:03:00+01:00"
 description = " SCALABLE ETHEREUM SIDECHAINS SOLUTION AS A SERVICE."
-draft = true
 logo = "/aerum-logo.jpg"
 membership_type = "standard"
 name = "AERUM"
