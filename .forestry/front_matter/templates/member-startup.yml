@@ -20,3 +20,13 @@ fields:
   label: Logo
   config:
     maxSize: '1'
+- type: select
+  name: membership_type
+  config:
+    source:
+      type: simple
+    options:
+    - standard
+    - virtual
+    - other
+  label: Membership Type
