@@ -52,8 +52,17 @@
     {{ partial "img-path" . }}
     {{ $path := $.Scratch.Get "path" }}
 
-    <span class="image {{ if eq $type "left" }}left{{ else if eq $type "right" }}right{{ else }}center{{ end }}">
-        <img src="{{ $path }}{{ $file }}" alt="{{ $alt }}">
-    </span>
-
+    {{ if eq $type "left" }}
+        <span class="image left">
+            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+        </span>
+    {{ else if eq $type "right" }}
+        <span class="image right">
+            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+        </span>
+    {{ else }}
+        <p><span class="image center">
+            <img src="{{ $path }}/{{ $file }}" alt="{{ $alt }}">
+        </span></p>
+    {{ end }}
 {{ end }}
