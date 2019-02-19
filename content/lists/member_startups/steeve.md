@@ -5,6 +5,6 @@ logo = "/steeve_logo-1.png"
 membership_type = "virtual"
 name = "Steeve App"
 social_links = "facebook = \"\"\ngithub = \"\"\nlinkedin_company = \"\"\nreddit = \"\"\ntelegram = \"\"\ntwitter = \"\""
-url = "https://www.steeve.app/@steeveapp"
+website = "https://www.steeve.app/@steeveapp"
 
 +++

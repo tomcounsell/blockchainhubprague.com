@@ -5,6 +5,6 @@ logo = "/blocknify_logo.jpg"
 membership_type = "virtual"
 name = "Blocknify"
 social_links = "facebook = \"https://www.facebook.com/blocknify/\"\ngithub = \"https://github.com/Blocknify\"\nlinkedin_company = \"https://www.linkedin.com/company/blocknify/\"\ntwitter = \"https://twitter.com/blocknify\""
-url = "https://blocknify.com"
+website = "https://blocknify.com"
 
 +++

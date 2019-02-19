@@ -5,6 +5,6 @@ logo = "/newlife_logo.png"
 membership_type = "virtual"
 name = "New Life"
 social_links = "medium = \"https://medium.com/@NEWCOIN.Network\"\nfacebook = \"https://www.facebook.com/newlifeai\"\nyoutube = \"https://www.youtube.com/newlifeai\"\nlinkedin_company = \"https://www.linkedin.com/company/newcoin\"\ninstagram = \"https://www.instagram.com/newlife.ai/\"\ntwitter = \"https://twitter.com/NewLifeAI\""
-url = "https://newlife.ai"
+website = "https://newlife.ai"
 
 +++

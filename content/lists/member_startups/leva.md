@@ -5,6 +5,6 @@ logo = "/leva_logo.jpg"
 membership_type = "virtual"
 name = "Leva"
 social_links = "facebook = \"IntelligentTradingFoundation\"\nmedium = \"https://medium.com/leva-platform\"\nlinkedin_company = \"https://www.linkedin.com/company/levaorg/\"\ntwitter = \"https://twitter.com/levaorg\""
-url = "https://leva.pe"
+website = "https://leva.pe"
 
 +++

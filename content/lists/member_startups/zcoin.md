@@ -5,6 +5,6 @@ logo = "/ZCoin.png"
 membership_type = "standard"
 name = "ZCoin"
 social_links = "facebook = \"https://www.facebook.com/zcoinofficial\"\nyoutube = \"https://www.youtube.com/zcoin\"\nreddit = \"https://www.reddit.com/user/zcoin\"\ntelegram = \"https://telegram.me/zcoinproject\"\ntwitter = \"https://twitter.com/zcoinofficial\""
-url = "https://zcoin.io/"
+website = "https://zcoin.io/"
 
 +++
