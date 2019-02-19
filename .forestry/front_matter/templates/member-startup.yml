@@ -13,7 +13,7 @@ fields:
   label: Description
   description: describe the business in eight words or less
 - type: text
-  name: url
+  name: website
   label: Website
 - type: file
   name: logo
