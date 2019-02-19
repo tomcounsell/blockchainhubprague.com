@@ -19,5 +19,5 @@ fields:
   label: Categories
   description: keywords (eg. chinese, lunch)
 pages:
-- content/blog/events/Lunch Language Exchange/chinese-3.md
 - content/blog/events/Lunch Language Exchange/chinese-2-1.md
+- content/blog/events/Lunch Language Exchange/chinese-3.md
