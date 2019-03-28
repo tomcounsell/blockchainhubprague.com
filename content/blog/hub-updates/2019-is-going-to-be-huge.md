@@ -25,7 +25,7 @@ The next design sprints are scheduled for the week of Jan 28th and again Feb 18t
 
 ## Educational Events
 
-One of the biggest requests we hear from our community is where they learn more about the latest technologies and trends. We are excited to announce that our educational events will be opening up to the public and we plan to schedule one for nearly every week! Mark your calendars for Tuesday nights. Our office is not huge, so space is limited and you’ll want to RSVP. Follow our page on [Meetup](https://www.meetup.com/BlockchainHubPrague/) and [Facebook](https://www.facebook.com/blockchainhubprague) so you don’t miss out.
+One of the biggest requests we hear from our community is where they learn more about the latest technologies and trends. We are excited to announce that our educational events will be opening up to the public and we plan to schedule one for nearly every week! Mark your calendars for Tuesday nights. Our office is not huge, so space is limited and you’ll want to RSVP. Follow our page on [Meetup](https://www.meetup.com/BHubPrague/) and [Facebook](https://www.facebook.com/blockchainhubprague) so you don’t miss out.
 
 ## Virtual Memberships
 

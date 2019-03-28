@@ -11,7 +11,7 @@ theme = "hugo-future-imperfect"
 title = "Blockchain Hub Prague"
 [[menu.main]]
 name = "Meetup Events"
-url = "https://www.meetup.com/BlockchainHubPrague/events/"
+url = "https://www.meetup.com/BHubPrague/events/"
 weight = 5
 [[menu.main]]
 identifier = "fa fa-home"
