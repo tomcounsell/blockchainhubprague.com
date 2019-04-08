@@ -2,11 +2,11 @@
 author = "Tom Counsell"
 categories = []
 date = "2019-03-03T00:00:00+01:00"
-description = ""
-featured = ""
+description = "Join us for a Google Ventures Design Sprint and launch ideas into successful startups! Also, Ideas Grill is a thing."
+featured = "/blog/fireworks.jpeg"
 featuredalt = ""
-featuredpath = "/media"
-linktitle = ""
+featuredpath = "/media/blog"
+linktitle = "ideas-grill"
 title = "Announcing Ideas Grill"
 type = "post"
 
