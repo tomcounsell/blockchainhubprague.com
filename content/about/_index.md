@@ -9,7 +9,11 @@ Blockchain Hub Prague is a business incubator for new startups. We all share a s
 
 ## Our Staff
 
-Tom Counsell and Andrea Kobrlova
+Tom Counsell (aka Batman)
+
+Andrea Kobrlova (aka Robin)
+
+## Admin
 
 Blockchain Technology Hub s.r.o.  
 Křižíkova 213/ 44, Karlín  
